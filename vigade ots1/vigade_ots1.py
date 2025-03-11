@@ -49,5 +49,6 @@ try:
     else:
         print("Kirjutage andmed õigesti")
 except ValueError:
-    print("Valed andmed")
+    print("Valed andmed.")
 
+    
